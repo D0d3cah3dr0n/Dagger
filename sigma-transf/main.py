@@ -225,5 +225,5 @@ def walk_path(path: str):
 
 
 if __name__ == '__main__':
-    path = "./sigma/rules/windows/process_creation/"
+    path = "./sigma-master/rules/windows/process_creation/"
     walk_path(path)
